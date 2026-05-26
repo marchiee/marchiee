@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=awhyshll&color=7B5EA7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=marchiee&color=7B5EA7&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;&nbsp;&nbsp;
 ![India](https://img.shields.io/badge/INDIA-IN-7B5EA7?style=for-the-badge)
 
@@ -61,11 +61,11 @@ Status: Currently learning & building
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7B5EA7)](mailto:your@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white&labelColor=7B5EA7)](mailto:awhyshll02@gmail.com)
 &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/X_/_Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=7B5EA7)](https://x.com/Madhuparna0_0)
+[![Twitter](https://img.shields.io/badge/X_/_Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=7B5EA7)](https://x.com/skylane0_0)
 &nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&labelColor=7B5EA7)](https://medium.com/@yourhandle)
+[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&labelColor=7B5EA7)](https://medium.com/@awhyshll02)
 
 </div>
 
@@ -77,27 +77,25 @@ Status: Currently learning & building
 
 <div align="center">
 
-## `> ⚙ Skills`
+## `> Skills ^ ^ `
 
 <br/>
 
-**Languages**
+**Languages:**
 
 <br/>
 
-&nbsp;
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=9B7FD4)
-&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=9B7FD4)
-&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=9B7FD4)
 &nbsp;
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=9B7FD4)
 &nbsp;
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=9B7FD4)
 &nbsp;
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=9B7FD4)
+&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=9B7FD4)
+&nbsp;
 
-**Frontend**
+**Frontend:**
 
 <br/>
 
@@ -114,7 +112,7 @@ Status: Currently learning & building
 &nbsp;
 
 
-**Backend & Database**
+**Backend & Database:**
 
 <br/>
 
@@ -127,7 +125,7 @@ Status: Currently learning & building
 &nbsp;
 
 
-**Tools & Platforms**
+**Tools & Platforms:**
 
 <br/>
 
@@ -181,7 +179,7 @@ Status: Currently learning & building
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=awhyshll&hide_border=true&background=0D0D0D&ring=7B5EA7&fire=9B7FD4&currStreakLabel=9B7FD4&sideLabels=7B5EA7&dates=7B5EA7&currStreakNum=ffffff&sideNums=ffffff&stroke=7B5EA7" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=marchiee&hide_border=true&background=0D0D0D&ring=7B5EA7&fire=9B7FD4&currStreakLabel=9B7FD4&sideLabels=7B5EA7&dates=7B5EA7&currStreakNum=ffffff&sideNums=ffffff&stroke=7B5EA7" height="160"/>
 
 </div>
 
