@@ -158,7 +158,7 @@ Status: Currently learning & building
 <br/>
 
 <a href="https://github.com/marchiee">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Being+afraid+isn%27t+a+bad+thing&author=Unknown&bg_color=0D0D0D&border_color=7B5EA7&title_color=9B7FD4" width="80%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=“It’s+not+a+bad+thing+to+be+afraid+.+My+fears+have+brought+me+this+far&author=Eisen&bg_color=0D0D0D&border_color=7B5EA7&title_color=9B7FD4" width="80%"/>
 </a>
 
 <br/><br/>
